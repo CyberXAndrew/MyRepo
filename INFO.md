@@ -1,3 +1,0 @@
-git is awesome!
-Or not...
-experiment with amend
